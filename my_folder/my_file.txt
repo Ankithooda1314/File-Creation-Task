@@ -1,0 +1,2 @@
+Hello this is my first command in Linux
+Hello this is second command in anotherfile 
